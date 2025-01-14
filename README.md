@@ -41,6 +41,7 @@ Welcome to the Snake Game, a classic arcade game implemented in Python using the
    - **Down Arrow**: Move down
    - **Left Arrow**: Move left
    - **Right Arrow**: Move right
+6. **Data.txt** file is used to store the highest score of the player.
 
 ## Project Structure
 
